@@ -15,8 +15,8 @@ Usage: ./unshort.sh <shortened url>
 
 Example:
 ```
- % ./unshort.sh http://bit.ly/twitter
+$ ./unshort.sh http://slur.pe/github
 
-  Shortened URL:  http://bit.ly/twitter
-Unshortened URL:  http://twitter.com/home
+  Shortened URL:  http://slur.pe/github
+Unshortened URL:  https://github.com/RyWhal
 ```
